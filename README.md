@@ -2,7 +2,7 @@
 
 ## Pages
 ```
-[https://semyart.github.io/simonTheGame_Vue/](https://semyart.github.io/simonTheGame_Vue/)
+[Open Pages](https://semyart.github.io/simonTheGame_Vue/).
 ```
 
 ## Project setup
