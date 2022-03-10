@@ -1,5 +1,10 @@
 # game-simon-says
 
+##Pages
+```
+https://semyart.github.io/simonTheGame_Vue/
+```
+
 ## Project setup
 ```
 npm install
