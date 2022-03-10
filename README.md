@@ -1,6 +1,6 @@
 # game-simon-says
 
-##Pages
+## Pages
 ```
 https://semyart.github.io/simonTheGame_Vue/
 ```
