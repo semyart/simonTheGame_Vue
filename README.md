@@ -1,9 +1,8 @@
 # game-simon-says
 
 ## Pages
-```
 [Open Pages](https://semyart.github.io/simonTheGame_Vue/).
-```
+
 
 ## Project setup
 ```
